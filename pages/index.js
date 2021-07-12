@@ -121,7 +121,7 @@ export default function Home({ localeJSON }) {
             </div>
           </div>
         </div>
-        <footer title={localeJSON.index.easterEggs.footer}>
+        <footer>
           Copyright 2021 - Matteo Monteleone (Monty)
         </footer>
       </section>
